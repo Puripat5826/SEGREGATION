@@ -1,6 +1,6 @@
 # SEGREGATION
 
-**All About App**
+**All About App**<br>
 "SEGREGATION" is a mobile application that was honored as one of the winning projects at WWDC2022.
 
 During the COVID-19 pandemic, Thailand initiated campaigns promoting waste segregation, particularly at the household level. The primary goal was to reduce waste accumulation through recycling, resulting in cost savings for waste management, reduced energy and resource consumption, and environmental preservation. However, the main challenge lies in achieving effective and proper waste segregation, as improper and inefficient practices could undermine the potential benefits and may place an increased burden on waste disposal staff.
